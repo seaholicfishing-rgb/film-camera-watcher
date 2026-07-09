@@ -1,0 +1,150 @@
+{
+  "chatwork": {
+    "_note": "room_id と mention_account_ids は公開リポに出さないため GitHub Secrets に格納（CHATWORK_ROOM_ID / CHATWORK_MENTION_IDS）。ローカル実行時はここに room_id / mention_account_ids を書けばフォールバックで使われる。"
+  },
+  "active_hours": {
+    "start": 10,
+    "end": 22,
+    "_note": "JST。毎時00分にチェック。10時〜22時の13回/日。GitHub Actions側のcronと両方で制御。"
+  },
+  "shops": [
+    {
+      "name": "イロハスカメラ",
+      "type": "shopify",
+      "url": "https://irohascamera.com",
+      "filters": {
+        "exclude_category_tags": [
+          "ミラーレス一眼カメラ",
+          "デジタル一眼レフカメラ",
+          "コンパクトデジタルカメラ",
+          "35mmオートフォーカスレンズ"
+        ],
+        "exclude_mounts": [
+          "M4/3",
+          "Sony E",
+          "Canon RF",
+          "Nikon Z",
+          "Nikon 1"
+        ],
+        "price_rules": {
+          "camera": {
+            "label": "カメラ",
+            "categories": ["35mm一眼レフ", "35mmコンパクト", "35mmレンジファインダー", "中判カメラ"],
+            "min_price": 30001
+          },
+          "lens": {
+            "label": "レンズ",
+            "categories": ["35mmマニュアルフォーカスレンズ", "中判、大判レンズ"],
+            "min_price": 30001
+          },
+          "accessory": {
+            "label": "アクセサリ",
+            "categories": ["アクセサリー、その他"],
+            "min_price": 20000
+          }
+        },
+        "notify_unknown": true
+      }
+    },
+    {
+      "name": "フジヤカメラ",
+      "type": "fujiya",
+      "url": "https://www.fujiya-camera.co.jp",
+      "listing_path": "/shop/r/rC-FCMU_s1/?ps=50",
+      "_note": "中古フィルムカメラ専用一覧(rC-FCMU)。フィルム機のみ＝価格足切りだけ。レンズ/アクセサリは別カテゴリで今後追加可。",
+      "filters": {
+        "flat_min_price": 30001,
+        "label": "フィルムカメラ"
+      }
+    },
+    {
+      "name": "三宝カメラ",
+      "type": "makeshop",
+      "url": "https://www.sanpou.ne.jp",
+      "listing_path": "/shopbrand/all_items/",
+      "encoding": "euc-jp",
+      "_note": "MakeShop系。全商品の新着順(ID降順)先頭28件。フィルム/デジタル無区別のためデジタル込み・価格足切りのみ。",
+      "filters": {
+        "flat_min_price": 30001,
+        "label": "新着"
+      }
+    },
+    {
+      "name": "富士越カメラ",
+      "type": "makeshop",
+      "url": "https://www.fujikoshi-camera.com",
+      "listing_path": "/shopbrand/all_items/",
+      "encoding": "euc-jp",
+      "_note": "三宝と同じMakeShop系。新着順先頭50件。デジタル込み・価格足切りのみ。",
+      "filters": {
+        "flat_min_price": 30001,
+        "label": "新着"
+      }
+    },
+    {
+      "name": "大貫カメラ",
+      "type": "shopify",
+      "url": "https://www.camera-ohnuki.com",
+      "_note": "Shopify。フィルム/デジタルの明確タグ無し(ブランド別)のためデジタル込み・価格足切りのみ。",
+      "filters": {
+        "flat_min_price": 30001,
+        "label": "新着"
+      }
+    },
+    {
+      "name": "OSカメラサービス",
+      "type": "oscamera",
+      "url": "https://oscameraservice.com",
+      "listing_path": "/new-product.html",
+      "_note": "Leica中心の高額クラシック機。新着ページの商品コード(サムネ画像名)の新規出現で検知。価格取得不可のため全件通知(足切りなし)。ユーザー要望で全更新を通知。",
+      "filters": {
+        "flat_min_price": 0,
+        "label": "新着"
+      }
+    },
+    {
+      "name": "アカサカカメラ",
+      "type": "akasaka",
+      "url": "https://www.akasaka-camera.com",
+      "listing_path": "/product.html",
+      "_note": "Leica/クラシック中心。新入荷ページに品名・価格・商品ページURL。価格応談/売約の品もあり、ユーザー要望で全新着を通知(足切りなし)。",
+      "filters": {
+        "flat_min_price": 0,
+        "label": "新着"
+      }
+    },
+    {
+      "name": "サイトウカメラ",
+      "type": "saito",
+      "url": "https://www.saito-camera.com",
+      "listing_path": "/list.php?ct=3&w=&mk=&cd=2",
+      "_note": "EUC-JP。各商品行にメーカー/品名/価格/程度。価格確実に取れるため3万円超フィルタ適用。URLのct=3はユーザー指定カテゴリ。",
+      "filters": {
+        "flat_min_price": 30001,
+        "label": "新着"
+      }
+    },
+    {
+      "name": "カメラコレクション",
+      "type": "cameracollection",
+      "url": "https://camera-collection.jp",
+      "listing_path": "/itemlist/",
+      "_note": "WordPress/VK。商品カードのみ(価格(税込)があるもの)を抽出しお知らせ記事を除外。デジタル込み・価格確実なので3万円超フィルタ。IDはURLスラッグ。",
+      "filters": {
+        "flat_min_price": 30001,
+        "label": "新着"
+      }
+    },
+    {
+      "name": "レモン社/ナニワG",
+      "type": "naniwa",
+      "url": "https://cameranonaniwa.jp",
+      "listing_path": "/shop/e/ezaiko/",
+      "_note": "ナニワグループ(ナニワ+レモン社+タカチホ)共通在庫。Shift_JIS。/shop/g/gIDのtitle属性に品名、後続に税込価格。デジタル込み・3万円超。レモン社単独ではなくグループ全体feed。",
+      "filters": {
+        "flat_min_price": 30001,
+        "label": "新着"
+      }
+    }
+  ]
+}

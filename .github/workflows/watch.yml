@@ -1,0 +1,58 @@
+name: film-camera-watcher
+
+on:
+  # 起動は外部タイマー(cron-job.org)からのworkflow_dispatchに一本化。
+  # GitHub内蔵scheduleは不安定かつ二重起動でActions時間を無駄に消費するため廃止。
+  workflow_dispatch:       # 手動実行＋外部cron(cron-job.org)からの起動用
+    inputs:
+      force:
+        description: '稼働時間(JST10-22)を無視して今すぐ実行する'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write          # state.json をリポジトリに書き戻すため
+
+concurrency:
+  group: watcher
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run watcher
+        env:
+          CHATWORK_TOKEN: ${{ secrets.CHATWORK_TOKEN }}
+          CHATWORK_ROOM_ID: ${{ secrets.CHATWORK_ROOM_ID }}
+          CHATWORK_MENTION_IDS: ${{ secrets.CHATWORK_MENTION_IDS }}
+          # force=true を指定した手動実行のときだけ稼働時間ガードを無視。
+          # 外部cron(cron-job.org)の通常起動は force 無し→稼働時間(10-22時)を守る。
+          FORCE_RUN: ${{ github.event.inputs.force == 'true' && '1' || '' }}
+        run: python watcher.py
+
+      - name: Commit state
+        run: |
+          if [ -n "$(git status --porcelain state.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add state.json
+            git commit -m "update state [skip ci]"
+            # 同時実行(cron重複)との競合でpushが弾かれても失敗させない：
+            # rebaseで取り込んで数回リトライ、それでもダメなら警告のみで正常終了
+            for i in 1 2 3 4 5; do
+              if git pull --rebase --autostash origin main && git push; then
+                echo "state pushed"; exit 0
+              fi
+              echo "push retry $i"; sleep 4
+            done
+            echo "::warning::state push skipped (次回実行で再保存されます)"
+          else
+            echo "state に変更なし"
+          fi

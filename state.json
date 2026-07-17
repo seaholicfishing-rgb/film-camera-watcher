@@ -376,7 +376,7 @@
       "9672106934513",
       "9672106967281"
     ],
-    "updated_at": "2026-07-17T10:45:24+00:00"
+    "updated_at": "2026-07-17T11:00:37+00:00"
   },
   "フジヤカメラ": {
     "seen_ids": [
@@ -458,7 +458,7 @@
       "gC2120197161273",
       "gC2120198095782"
     ],
-    "updated_at": "2026-07-17T10:45:27+00:00"
+    "updated_at": "2026-07-17T11:00:41+00:00"
   },
   "三宝カメラ": {
     "seen_ids": [
@@ -612,7 +612,7 @@
       "000000024710",
       "000000024711"
     ],
-    "updated_at": "2026-07-17T10:45:29+00:00"
+    "updated_at": "2026-07-17T11:00:42+00:00"
   },
   "富士越カメラ": {
     "seen_ids": [
@@ -1485,7 +1485,7 @@
       "006007000057",
       "019003000003"
     ],
-    "updated_at": "2026-07-17T10:45:30+00:00"
+    "updated_at": "2026-07-17T11:00:44+00:00"
   },
   "大貫カメラ": {
     "seen_ids": [
@@ -1811,9 +1811,13 @@
       "9315310862572",
       "9315313189100",
       "9316369465580",
-      "9316369596652"
+      "9316369596652",
+      "9316369924332",
+      "9316380803308",
+      "9316385030380",
+      "9316389257452"
     ],
-    "updated_at": "2026-07-17T10:45:31+00:00"
+    "updated_at": "2026-07-17T11:00:45+00:00"
   },
   "OSカメラサービス": {
     "seen_ids": [
@@ -1968,7 +1972,7 @@
       "SW90",
       "W135"
     ],
-    "updated_at": "2026-07-17T10:45:33+00:00"
+    "updated_at": "2026-07-17T11:00:47+00:00"
   },
   "アカサカカメラ": {
     "seen_ids": [
@@ -2019,7 +2023,7 @@
       "6123",
       "6124"
     ],
-    "updated_at": "2026-07-17T10:45:35+00:00"
+    "updated_at": "2026-07-17T11:00:48+00:00"
   },
   "サイトウカメラ": {
     "seen_ids": [
@@ -2045,7 +2049,7 @@
       "39813",
       "39815"
     ],
-    "updated_at": "2026-07-17T10:45:36+00:00"
+    "updated_at": "2026-07-17T11:00:49+00:00"
   },
   "カメラコレクション": {
     "seen_ids": [
@@ -2191,6 +2195,7 @@
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-34",
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-37",
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-4-3",
+      "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-40",
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-41",
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-43",
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-44",
@@ -2219,7 +2224,7 @@
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-77",
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-78"
     ],
-    "updated_at": "2026-07-17T10:45:37+00:00"
+    "updated_at": "2026-07-17T11:00:51+00:00"
   },
   "レモン社/ナニワG": {
     "seen_ids": [
@@ -2759,6 +2764,6 @@
       "g2222290037551",
       "g2222290037568"
     ],
-    "updated_at": "2026-07-17T10:45:39+00:00"
+    "updated_at": "2026-07-17T11:00:53+00:00"
   }
 }

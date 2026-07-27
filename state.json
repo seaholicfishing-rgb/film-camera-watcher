@@ -413,9 +413,21 @@
       "9679324348657",
       "9679324414193",
       "9679324446961",
-      "9679324479729"
+      "9679324479729",
+      "9681110466801",
+      "9681110499569",
+      "9681110532337",
+      "9681110565105",
+      "9681110597873",
+      "9681110630641",
+      "9681110663409",
+      "9681110696177",
+      "9681110728945",
+      "9681110761713",
+      "9681110794481",
+      "9681110827249"
     ],
-    "updated_at": "2026-07-26T22:45:22+00:00"
+    "updated_at": "2026-07-27T10:30:30+00:00"
   },
   "フジヤカメラ": {
     "seen_ids": [
@@ -526,7 +538,7 @@
       "gC2120197509426",
       "gC2120198095782"
     ],
-    "updated_at": "2026-07-27T10:15:25+00:00"
+    "updated_at": "2026-07-27T10:30:34+00:00"
   },
   "三宝カメラ": {
     "seen_ids": [
@@ -730,7 +742,7 @@
       "000000024762",
       "000000024763"
     ],
-    "updated_at": "2026-07-27T10:15:26+00:00"
+    "updated_at": "2026-07-27T10:30:36+00:00"
   },
   "富士越カメラ": {
     "seen_ids": [
@@ -1784,7 +1796,7 @@
       "006007000057",
       "019003000003"
     ],
-    "updated_at": "2026-07-27T10:15:28+00:00"
+    "updated_at": "2026-07-27T10:30:37+00:00"
   },
   "大貫カメラ": {
     "seen_ids": [
@@ -2168,7 +2180,7 @@
       "9327115206892",
       "9327116386540"
     ],
-    "updated_at": "2026-07-26T22:45:28+00:00"
+    "updated_at": "2026-07-27T10:30:38+00:00"
   },
   "OSカメラサービス": {
     "seen_ids": [
@@ -2326,7 +2338,7 @@
       "SW90",
       "W135"
     ],
-    "updated_at": "2026-07-27T10:15:30+00:00"
+    "updated_at": "2026-07-27T10:30:39+00:00"
   },
   "アカサカカメラ": {
     "seen_ids": [
@@ -2383,7 +2395,7 @@
       "6145",
       "6146"
     ],
-    "updated_at": "2026-07-27T10:15:31+00:00"
+    "updated_at": "2026-07-27T10:30:41+00:00"
   },
   "サイトウカメラ": {
     "seen_ids": [
@@ -2411,7 +2423,7 @@
       "39815",
       "39877"
     ],
-    "updated_at": "2026-07-27T10:15:32+00:00"
+    "updated_at": "2026-07-27T10:30:41+00:00"
   },
   "カメラコレクション": {
     "seen_ids": [
@@ -2452,6 +2464,7 @@
       "001_weblimited-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-co-5-3",
       "001_weblimited-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-co-5-4",
       "001_weblimited-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-co-5-5",
+      "001_weblimited-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-co-5-6",
       "001_weblimited-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-co-50",
       "001_weblimited-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-co-51",
       "001_weblimited-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-co-52",
@@ -2463,6 +2476,7 @@
       "001_weblimited-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-cop-17",
       "001_weblimited-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-cop-3",
       "001_weblimited-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-cop-5",
+      "047-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy",
       "233-copy-copy-copy-3-copy-2-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-3-copy-2-copy-2-copy-copy-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-2-copy-copy-copy-copy-copy-3-11",
       "233-copy-copy-copy-3-copy-2-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-3-copy-2-copy-2-copy-copy-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-2-copy-copy-copy-copy-copy-3-12",
       "233-copy-copy-copy-3-copy-2-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-3-copy-2-copy-2-copy-copy-copy-copy-2-copy-copy-copy-2-copy-copy-2-copy-2-copy-copy-copy-copy-copy-3-13",
@@ -2512,6 +2526,7 @@
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-146",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-149",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-151",
+      "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-153",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-16",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-2-2",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-2-3",
@@ -2642,7 +2657,7 @@
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-80",
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-81"
     ],
-    "updated_at": "2026-07-27T10:15:34+00:00"
+    "updated_at": "2026-07-27T10:30:43+00:00"
   },
   "レモン社/ナニワG": {
     "seen_ids": [
@@ -3445,6 +3460,6 @@
       "g2222290037551",
       "g2222290037568"
     ],
-    "updated_at": "2026-07-27T10:15:35+00:00"
+    "updated_at": "2026-07-27T10:30:45+00:00"
   }
 }

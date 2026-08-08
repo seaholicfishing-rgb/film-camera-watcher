@@ -509,7 +509,7 @@
       "9700594417905",
       "9700594712817"
     ],
-    "updated_at": "2026-08-08T11:45:23+00:00"
+    "updated_at": "2026-08-08T12:00:39+00:00"
   },
   "フジヤカメラ": {
     "seen_ids": [
@@ -632,7 +632,7 @@
       "gC2120197509426",
       "gC2120198095782"
     ],
-    "updated_at": "2026-08-08T11:45:25+00:00"
+    "updated_at": "2026-08-08T12:00:41+00:00"
   },
   "三宝カメラ": {
     "seen_ids": [
@@ -949,7 +949,7 @@
       "000000024875",
       "000000024876"
     ],
-    "updated_at": "2026-08-08T11:45:27+00:00"
+    "updated_at": "2026-08-08T12:00:43+00:00"
   },
   "富士越カメラ": {
     "seen_ids": [
@@ -2069,7 +2069,7 @@
       "006007000057",
       "019003000003"
     ],
-    "updated_at": "2026-08-08T11:45:29+00:00"
+    "updated_at": "2026-08-08T12:00:45+00:00"
   },
   "大貫カメラ": {
     "seen_ids": [
@@ -2494,7 +2494,7 @@
       "9367941382380",
       "9367941513452"
     ],
-    "updated_at": "2026-08-08T11:45:30+00:00"
+    "updated_at": "2026-08-08T12:00:46+00:00"
   },
   "OSカメラサービス": {
     "seen_ids": [
@@ -2661,7 +2661,7 @@
       "SW90",
       "W135"
     ],
-    "updated_at": "2026-08-08T11:45:31+00:00"
+    "updated_at": "2026-08-08T12:00:47+00:00"
   },
   "アカサカカメラ": {
     "seen_ids": [
@@ -2721,7 +2721,7 @@
       "6150",
       "6151"
     ],
-    "updated_at": "2026-08-08T11:45:32+00:00"
+    "updated_at": "2026-08-08T12:00:48+00:00"
   },
   "サイトウカメラ": {
     "seen_ids": [
@@ -2936,6 +2936,7 @@
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-58",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-59",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-6-3",
+      "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-6-4",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-61",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-62",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-63",
@@ -3061,7 +3062,7 @@
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-82",
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-83"
     ],
-    "updated_at": "2026-08-08T11:45:35+00:00"
+    "updated_at": "2026-08-08T12:01:20+00:00"
   },
   "レモン社/ナニワG": {
     "seen_ids": [
@@ -3195,6 +3196,7 @@
       "g2111020433223",
       "g2111020433278",
       "g2111020433391",
+      "g2111020433414",
       "g2111040103113",
       "g2111040156775",
       "g2111040160611",
@@ -3568,8 +3570,13 @@
       "g2221070531470",
       "g2221070531715",
       "g2221070531753",
+      "g2221070531807",
       "g2221070531838",
       "g2221070531845",
+      "g2221070531890",
+      "g2221070531906",
+      "g2221070532163",
+      "g2221070532170",
       "g2221090949019",
       "g2221090952262",
       "g2221091013689",
@@ -3752,6 +3759,12 @@
       "g2221091094770",
       "g2221091094787",
       "g2221091094824",
+      "g2221091094893",
+      "g2221091094916",
+      "g2221091094930",
+      "g2221091094947",
+      "g2221091094978",
+      "g2221091094992",
       "g2221130327715",
       "g2221130330128",
       "g2221130332115",
@@ -3810,6 +3823,7 @@
       "g2221130350218",
       "g2221130350225",
       "g2221130350317",
+      "g2221130350744",
       "g2221140372088",
       "g2221140378530",
       "g2221140384746",
@@ -3821,6 +3835,7 @@
       "g2221140397272",
       "g2221140397302",
       "g2221140397418",
+      "g2221140397470",
       "g2221140397692",
       "g2221140397838",
       "g2221140397883",
@@ -4082,6 +4097,7 @@
       "g2222050267341",
       "g2222050267426",
       "g2222050267457",
+      "g2222050267501",
       "g2222050267518",
       "g2222120067970",
       "g2222120076217",
@@ -4149,6 +4165,6 @@
       "g2222290038459",
       "g2222290038534"
     ],
-    "updated_at": "2026-08-08T11:45:37+00:00"
+    "updated_at": "2026-08-08T12:01:22+00:00"
   }
 }

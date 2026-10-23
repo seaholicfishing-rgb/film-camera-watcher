@@ -959,7 +959,7 @@
       "9822976671985",
       "9822976770289"
     ],
-    "updated_at": "2026-10-23T13:45:22+00:00"
+    "updated_at": "2026-10-23T14:00:39+00:00"
   },
   "フジヤカメラ": {
     "seen_ids": [
@@ -1186,7 +1186,7 @@
       "gC2120198400418",
       "gC2120199213062"
     ],
-    "updated_at": "2026-10-23T13:45:23+00:00"
+    "updated_at": "2026-10-23T14:00:40+00:00"
   },
   "三宝カメラ": {
     "seen_ids": [
@@ -2022,7 +2022,7 @@
       "000000025397",
       "000000025398"
     ],
-    "updated_at": "2026-10-23T13:45:24+00:00"
+    "updated_at": "2026-10-23T14:00:41+00:00"
   },
   "富士越カメラ": {
     "seen_ids": [
@@ -2145,6 +2145,7 @@
       "000000011062",
       "000000011101",
       "000000011144",
+      "000000011223",
       "000000011538",
       "000000011541",
       "000000011558",
@@ -2522,6 +2523,7 @@
       "000000020100",
       "000000020105",
       "000000020127",
+      "000000020132",
       "000000020138",
       "000000020140",
       "000000020144",
@@ -2879,6 +2881,7 @@
       "000000021698",
       "000000021701",
       "000000021704",
+      "000000021709",
       "000000021714",
       "000000021718",
       "000000021720",
@@ -3617,7 +3620,7 @@
       "019003000002",
       "019003000003"
     ],
-    "updated_at": "2026-10-23T13:45:26+00:00"
+    "updated_at": "2026-10-23T14:00:42+00:00"
   },
   "大貫カメラ": {
     "seen_ids": [
@@ -4325,7 +4328,7 @@
       "9603025830124",
       "9603026485484"
     ],
-    "updated_at": "2026-10-23T13:45:28+00:00"
+    "updated_at": "2026-10-23T14:00:43+00:00"
   },
   "OSカメラサービス": {
     "seen_ids": [
@@ -4620,7 +4623,7 @@
       "6242",
       "6243"
     ],
-    "updated_at": "2026-10-23T13:45:30+00:00"
+    "updated_at": "2026-10-23T14:01:14+00:00"
   },
   "サイトウカメラ": {
     "seen_ids": [
@@ -4682,7 +4685,7 @@
       "40232",
       "40234"
     ],
-    "updated_at": "2026-10-23T13:45:31+00:00"
+    "updated_at": "2026-10-23T14:01:16+00:00"
   },
   "カメラコレクション": {
     "seen_ids": [
@@ -5006,6 +5009,7 @@
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-2-4",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-2-6",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-2-7",
+      "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-2-8",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-20",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-200",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-201",
@@ -5094,6 +5098,7 @@
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-83",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-85",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-87",
+      "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-89",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-9-2",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-9-3",
       "233-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-cop-93",
@@ -5308,7 +5313,7 @@
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-82",
       "306-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy-2-copy-copy-2-copy-copy-copy-copy-copy-2-copy-copy-copy-copy-copy-copy-copy-copy-copy-3-copy-copy-copy-copy-copy-2-copy-copy-copy-co-83"
     ],
-    "updated_at": "2026-10-23T13:45:33+00:00"
+    "updated_at": "2026-10-23T14:01:18+00:00"
   },
   "レモン社/ナニワG": {
     "seen_ids": [
@@ -7441,6 +7446,7 @@
       "g2221140408626",
       "g2221140408657",
       "g2221140408671",
+      "g2221140408688",
       "g2221140408893",
       "g2221140408985",
       "g2221140409142",
@@ -7488,12 +7494,14 @@
       "g2221190036619",
       "g2221190042085",
       "g2221190042351",
+      "g2221190042481",
       "g2221190042610",
       "g2221190043884",
       "g2221190044133",
       "g2221190044416",
       "g2221190044737",
       "g2221190044881",
+      "g2221190045192",
       "g2221190045529",
       "g2221190045963",
       "g2221190046052",
@@ -7503,6 +7511,7 @@
       "g2221190047158",
       "g2221190047264",
       "g2221190047363",
+      "g2221190047486",
       "g2221190047660",
       "g2221190048148",
       "g2221190048186",
@@ -7527,6 +7536,8 @@
       "g2221190049954",
       "g2221190050066",
       "g2221190050073",
+      "g2221190050165",
+      "g2221190050189",
       "g2221190050288",
       "g2221190050349",
       "g2221190050479",
@@ -8070,6 +8081,6 @@
       "g2225080001039",
       "g2225080005129"
     ],
-    "updated_at": "2026-10-23T13:45:34+00:00"
+    "updated_at": "2026-10-23T14:01:20+00:00"
   }
 }
